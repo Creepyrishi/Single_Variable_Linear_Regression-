@@ -113,6 +113,11 @@ Iteration 100: Cost = 0.2565, w = 3.0098, b = 6.8869
 ...
 ```
 
+
+## Implementation Using Scikit-Learn
+
+In addition to the manual implementation, linear regression can also be performed using the `scikit-learn` library, which simplifies the process.
+
 ---
 
 **Conclusion**: The code successfully learns the parameters `w` and `b` to fit the line `Y = 3X + 7`, demonstrating the core mechanics of linear regression and gradient descent.
